@@ -28,3 +28,4 @@ frndName = "someone";
 console.log(frndName)
 
 //number,string,bolean done
+console.log(num1 + parseInt(num2));
